@@ -1,9 +1,11 @@
-[26868:15728:0507/184350.736:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[26868:15728:0507/184350.976:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[26868:10652:0507/184351.167:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[26868:15728:0507/184351.399:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26868:15728:0507/184423.440:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[5180:25784:0507/184427.627:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-81FA643624E79F34F576C61CC3445918 will be ignored
-[26868:15728:0507/184428.043:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[26868:15728:0507/184438.213:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[26868:15728:0507/184443.183:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25500:34460:0507/183723.811:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25500:34460:0507/183723.878:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25500:33788:0507/183729.932:WARNING:leveldb_database.cc(141)] Unable to open X:\y--PRIVATE--\Unreal Engine 5\Robimy-gre\NaszaGraLol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: X:\y--PRIVATE--\Unreal Engine 5\Robimy-gre\NaszaGraLol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25500:33788:0507/183729.936:WARNING:leveldb_database.cc(141)] Unable to open X:\y--PRIVATE--\Unreal Engine 5\Robimy-gre\NaszaGraLol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: X:\y--PRIVATE--\Unreal Engine 5\Robimy-gre\NaszaGraLol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25500:33788:0507/183729.940:WARNING:leveldb_database.cc(141)] Unable to open X:\y--PRIVATE--\Unreal Engine 5\Robimy-gre\NaszaGraLol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: X:\y--PRIVATE--\Unreal Engine 5\Robimy-gre\NaszaGraLol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25500:33788:0507/183729.943:WARNING:leveldb_database.cc(141)] Unable to open X:\y--PRIVATE--\Unreal Engine 5\Robimy-gre\NaszaGraLol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: X:\y--PRIVATE--\Unreal Engine 5\Robimy-gre\NaszaGraLol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25500:33788:0507/183733.542:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25500:33788:0507/183733.545:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25500:34460:0507/183733.610:ERROR:device_event_log_impl.cc(196)] [18:37:33.595] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Nie można odnaleźć elementu. (0x490)
+[8168:17480:0507/183741.293:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-05340307B308C80EFA0D9E918F2F2BB2 will be ignored
+[25500:34460:0507/183858.572:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
