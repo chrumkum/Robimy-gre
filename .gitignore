@@ -72,3 +72,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/NaszaGraLol/Saved/webcache_6613
+/NaszaGraLol/Intermediate
+/NaszaGraLol/Intermediate
+/NaszaGraLol/Intermediate
+
+
+# Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.sln
+.vs/
